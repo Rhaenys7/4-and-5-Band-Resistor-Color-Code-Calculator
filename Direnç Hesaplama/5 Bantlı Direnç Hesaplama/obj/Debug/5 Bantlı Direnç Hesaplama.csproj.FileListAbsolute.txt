@@ -1,0 +1,11 @@
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\bin\Debug\5 Bantlı Direnç Hesaplama.exe.config
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\bin\Debug\5 Bantlı Direnç Hesaplama.exe
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\bin\Debug\5 Bantlı Direnç Hesaplama.pdb
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\obj\Debug\5 Bantlı Direnç Hesaplama.csproj.AssemblyReference.cache
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\obj\Debug\5 Bantlı Direnç Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\obj\Debug\_5_Bantlı_Direnç_Hesaplama.Form1.resources
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\obj\Debug\_5_Bantlı_Direnç_Hesaplama.Properties.Resources.resources
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\obj\Debug\5 Bantlı Direnç Hesaplama.csproj.GenerateResource.cache
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\obj\Debug\5 Bantlı Direnç Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\obj\Debug\5 Bantlı Direnç Hesaplama.exe
+C:\Users\mhmds\source\repos\SystemIO\Direnç Hesaplama\5 Bantlı Direnç Hesaplama\obj\Debug\5 Bantlı Direnç Hesaplama.pdb
